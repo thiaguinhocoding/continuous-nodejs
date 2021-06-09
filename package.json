@@ -3,5 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "thiaguinhocoding <thiaguinhocoding@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.0.4",
+    "supertest": "^6.1.3"
+  }
 }
